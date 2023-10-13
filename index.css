@@ -1,0 +1,47 @@
+body{
+    background-image: url(to.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    margin-top: 160px;
+    margin-left: 350px;
+}
+.main{
+    border: 1px  solid black;
+    border-style: dashed;
+    border-color: green;
+    text-align: center;
+    height: 250px;
+    width: 450px;
+    background-color:ivory;
+
+}
+.main input{
+    width: 230px;
+}
+.main p{
+    color: darkblue;
+    font-size: 20px;
+}
+#btn{
+    color: whitesmoke;
+    background-color: green;
+}
+#clear{
+    margin-top: 30px;
+    background-color: red;
+    color: whitesmoke;
+}
+#dust{
+   display: flex;
+   justify-content: space-between;
+}
+
+
+
+
+
+
+
+
+

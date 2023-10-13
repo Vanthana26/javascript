@@ -1,0 +1,27 @@
+body{
+    background-color: whitesmoke;
+}
+.main{
+    display: flex-wrap;
+    justify-content: center;
+    text-align: center;
+    margin-top: 200px;
+}
+.main p{
+    color: blue;
+}
+#btn1{
+    width: 150px;
+    height: 40px;
+    border-radius: 15px;
+}
+#btn2{
+    width: 150px;
+    height: 40px;
+    border-radius: 15px;
+}
+#btn3{
+    width: 150px;
+    height: 40px;
+    border-radius: 15px;
+}

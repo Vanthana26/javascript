@@ -1,0 +1,19 @@
+div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.image{
+    width: 450px;
+    height: 500px;
+    border: 1px solid black;
+}
+button{
+    width: 170px;
+    height: 50px;
+    background-color:gray;
+    color: whitesmoke;
+    margin-top: 30px;
+    border-radius: 30px;
+}
